@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Disquiet Eats Everything</string>
+    <string name="placeholder" tools:ignore="ExtraTranslation">hey...</string>
+    <string name="litteraly_letter_A" tools:ignore="ExtraTranslation">A</string>
+    <string name="search_text" tools:ignore="ExtraTranslation">Search kon gorosne</string>
+    <string name="foods" tools:ignore="ExtraTranslation">Foods</string>
+    <string name="ingredients" tools:ignore="ExtraTranslation">Ingredients</string>
+    <string name="measure" tools:ignore="ExtraTranslation">Measure</string>
+    <string name="faves" tools:ignore="ExtraTranslation">Your Favorite Foods</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
